@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 ## since model size in >1gb i am blocking model.pkl
-model.pkl
+artifacts/model.pkl
