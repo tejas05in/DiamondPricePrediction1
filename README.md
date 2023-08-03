@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 5. Run Application
 ```
-python app.py
+python application.py
 ```
 
 🔧 Built with
@@ -69,6 +69,6 @@ python app.py
 - Scikit learn
 - 🏦 Industrial Use Cases
 
-Best Model Name : **`RandomForest`** , r2 Score : 0.977
+Best Model Name : **`RandomForest`** , r2 Score : 0.977<br>
 Author: Dr. TEJAS. J<br>
 email: tejasjacademics@gmail.com<br>
